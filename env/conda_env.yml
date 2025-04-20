@@ -1,0 +1,8 @@
+name: cnv_env
+dependencies:
+  - fastqc
+  - multiqc
+  - bwa
+  - samtools
+  - cnvkit
+  - r-base

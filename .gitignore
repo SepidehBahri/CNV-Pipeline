@@ -1,0 +1,12 @@
+*.fastq
+*.fastq.gz
+*.sam
+*.bam
+*.bai
+*.log
+*.html
+*.json
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
